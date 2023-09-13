@@ -1,3 +1,4 @@
+<?php
 class Solution {
 
 /**
@@ -24,3 +25,4 @@ function majorityElement($nums) {
     return $result;
 }
 }
+?>
